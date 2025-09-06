@@ -19,7 +19,7 @@ This app allows users to have AI-powered conversations with clean, plain-text re
 
 ## Demo
 
-![Chatbot Demo](screenshot.png)  
+
 
 
 
